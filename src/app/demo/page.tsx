@@ -555,7 +555,6 @@ export default function DemoPage() {
                 <h3 className="font-black">
                   {title}
                 </h3>
-
                 <p className="mt-2 text-sm leading-6 text-slate-600 dark:text-slate-400">
                   {text}
                 </p>
